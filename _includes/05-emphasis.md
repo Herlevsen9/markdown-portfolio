@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_The Italian way_
+
+__The excentric way__
+
+_The __Combined__ way_
